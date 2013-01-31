@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"cha",
+				"character_lenght"
+			],
+			[
+				"id",
+				"idArticle"
+			],
+			[
+				"Row",
+				"RowCalc"
+			],
+			[
+				"post",
+				"postCount"
+			],
+			[
+				"where",
+				"where_in"
+			],
+			[
+				"diplay",
+				"display_error"
+			],
+			[
+				"ids_",
+				"ids_order"
+			],
+			[
+				"sub",
+				"substr_count"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 233,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/conf/apache/httpd.conf",
+			"settings":
+			{
+				"buffer_size": 19329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix",
+				"name": "function InvoiceCntl($scope) {"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/access06-11-2012.txt",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/components/com_default/controllers/welcome.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/system/application/libraries/Fglobal.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/components/com_role/controllers/stages.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/modules/mod_author_profile/author_profile.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/system/codeigniter/Common.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/components/com_exchange/controllers/add_order.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/components/com_exchange/controllers/create_order.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/components/com_exchange/controllers/exchange.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/components/com_exchange/controllers/showinfo.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/index.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/components/com_author/controllers/profile.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/system/application/libraries/Fexchange.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/components/com_cron/controllers/exchange.php",
+		"/Volumes/NO NAME/WORK/Copylancer.ru/public_html/system/application/libraries/Fcomm.php",
+		"/E/WORK/Copylancer.ru/public_html/system/application/libraries/Fexchange.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Fcomm.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_author/controllers/authors.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Listener.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Fexchange.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Fglobal.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Finance.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/controllers/exchange.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_arbitre/controllers/arbitre.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/models/exchange_model.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_cron/controllers/exchange.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/controllers/showinfo.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_review/controllers/creview.php",
+		"/G/WORK/Copylancer.ru/administrator/components/com_finance/controllers/outpay_demands.php",
+		"/G/WORK/Copylancer.ru/administrator/components/com_finance/controllers/shop_reports.php",
+		"/G/WORK/Copylancer.ru/components/com_exchange/controllers/showinfo.php",
+		"/G/WORK/Copylancer.ru/system/application/libraries/Miratools.php",
+		"/C/Users/HP/Desktop/graber/graber/unique_text.php",
+		"/G/WORK/Copylancer.ru/copylancer.ru.sublime-project",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/controllers/exchange.php#",
+		"/G/WORK/Copylancer.ru/public_html/components/com_cron/controllers/shop.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_default/controllers/welcome.php",
+		"/G/WORK/Copylancer.ru/public_html/templates/copylancer/js/default.js",
+		"/G/WORK/Copylancer.ru/public_html/templates/copylancer/copylancer.php",
+		"/G/WORK/Copylancer.ru/public_html/templates/copylancer/cluetip/jquery.cluetip.css",
+		"/G/WORK/Copylancer.ru/public_html/templates/copylancer/js/jquery.tooltip.js",
+		"/G/WORK/Copylancer.ru/public_html/templates/copylancer/cluetip/jquery.cluetip.min.js",
+		"/G/WORK/Copylancer.ru/public_html/templates/copylancer/cluetip/jquery.cluetip.all.min.js",
+		"/G/WORK/Copylancer.ru/public_html/modules/mod_user/user.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_options/controllers/access_c.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_message/views/window.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_message/views/window_support.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_pressfoto/views/template.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_finance/views/sendmsg_cansel_demands.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_finance/controllers/outpay_demands.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Fnotice.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/controllers/create_order.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_shop/controllers/article.php",
+		"/G/WORK/paylancer.ru/www/sftp-config.json",
+		"/G/WORK/Copylancer.ru/public_html/uploads/orders.xml",
+		"/C/Users/HP/Desktop/XML (1).xml",
+		"/G/WORK/Copylancer.ru/public_html/in_pays/robo_result.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Fpressfoto.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_finance/views/payment_xml.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_cron/controllers/access.php",
+		"/G/WORK/Copylancer.ru/public_html/modules/mod_shop_menu/shop_menu.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/History.php",
+		"/G/WORK/merchant.paylancer.ru/www/sftp-config.json",
+		"/G/WORK/paylancer.ru/www/templates/default/default.php",
+		"/E/WORK/Copylancer.ru/public_html/components/com_cron/controllers/exchange.php",
+		"/E/WORK/Copylancer.ru/public_html/system/application/libraries/Listener.php",
+		"/E/WORK/Copylancer.ru/public_html/components/com_service/controllers/services.php",
+		"/E/WORK/Copylancer.ru/public_html/components/com_cron/controllers/service.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Miratools.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Fauthor.php",
+		"/G/WORK/Copylancer.ru/public_html/modules/mod_favorites/favorites.php",
+		"/G/WORK/Copylancer.ru/public_html/templates/default/css/style.css",
+		"/G/WORK/Copylancer.ru/public_html/templates/copylancer/css/style_content.css",
+		"/G/WORK/Copylancer.ru/public_html/templates/copylancer/css/style.css",
+		"/G/WORK/Copylancer.ru/public_html/components/com_default/controllers/copylancer_webeffector.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/views/archive_admit_table.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/views/archive_table.php",
+		"/G/WORK/Copylancer.ru/public_html/modules/mod_exchange_menu/exchange_menu.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/views/drafts_table.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/views/arbitre_table.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_message/models/message_model.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_shop/models/shop_model.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_service/models/news_model.php",
+		"/G/WORK/Copylancer.ru/public_html/.htaccess",
+		"/G/WORK/Copylancer.ru/public_html/components/com_default/views/copylancer_webeffector/copylancer_webeffector.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_default/views/copylancer_webeffector/refill_form.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/views/seller_tenders_table.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_shop/controllers/sections.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_role/views/copywriter_form.php",
+		"/C/WebServers/usr/local/php5/php.ini",
+		"/C/WebServers/home/localhost/www/Tools/phpmyadmin/config.sample.inc.php",
+		"/C/WebServers/home/localhost/www/Tools/phpmyadmin/config.inc.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/modules/mod_menu/views/menu.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_options/views/access_c_ban_list_queries_table.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/textpng.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Fshop.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_integration/controllers/api.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_corrector/controllers/myitems.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_integration/models/api_model.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_options/controllers/admin_options.php",
+		"/G/WORK/Copylancer.ru/public_html/index.php",
+		"/C/Users/HP/Desktop/403.php",
+		"/C/Users/HP/Desktop/ip_checked.php",
+		"/G/WORK/Copylancer.ru/public_html/cron/index.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_options/views/access_c_edit_form.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_options/views/access_c_add_form.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/components/com_options/views/access_c_rules_table.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_cron/controllers/balance.php",
+		"/G/WORK/Copylancer.ru/public_html/system/helpers/form_helper.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_finance/controllers/detailed.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Component.php",
+		"/G/WORK/Copylancer.ru/public_html/access10-10-2012.txt",
+		"/G/WORK/Copylancer.ru/public_html/request.html",
+		"/G/WORK/Copylancer.ru/public_html/access09-10-2012.txt",
+		"/G/WORK/Copylancer.ru/public_html/components/com_integration/libraries/Api_copylancer.php",
+		"/G/WORK/Copylancer.ru/public_html/mysql_slow.log",
+		"/G/WORK/Copylancer.ru/public_html/components/com_shop/views/item.php",
+		"/G/WORK/Copylancer.ru/public_html/administrator/modules/mod_exchange/exchange.php",
+		"/G/WORK/Copylancer.ru/public_html/modules/mod_search_right/search_right.php",
+		"/G/WORK/Copylancer.ru/public_html/license.txt",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Fmessage.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/config/extension.php",
+		"/G/WORK/Copylancer.ru/public_html/system/application/libraries/Ftmp.php",
+		"/G/WORK/Copylancer.ru/public_html/ERROR-2012-10-09.php",
+		"/G/WORK/Copylancer.ru/public_html/SESSION-2012-10-09.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_author/controllers/profile.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_message/controllers/support.php",
+		"/G/WORK/Copylancer.ru/public_html/components/com_exchange/views/order_show.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Volumes/NO NAME/WORK/Copylancer.ru/public_html",
+			"G:\\WORK\\Copylancer.ru\\public_html",
+			"G:\\WORK\\Copylancer.ru\\public_html\\system",
+			"G:\\WORK\\Copylancer.ru\\public_html\\components",
+			"G:\\WORK\\Copylancer.ru\\public_html",
+			"G:\\WORK\\Copylancer.ru\\public_html\\components\\com_shop",
+			"G:\\WORK\\Copylancer.ru\\public_html",
+			"G:\\WORK\\Copylancer.ru\\public_html\\system",
+			"G:\\WORK\\Copylancer.ru\\public_html\\modules",
+			"G:\\WORK\\Copylancer.ru\\public_html\\components\\com_exchange",
+			"G:\\WORK\\Copylancer.ru\\public_html",
+			"G:\\WORK\\Copylancer.ru\\public_html\\components\\com_exchange\\controllers",
+			"G:\\WORK\\Copylancer.ru\\public_html\\components\\com_exchange",
+			"G:\\WORK\\Copylancer.ru\\public_html\\components\\com_exchange\\controllers",
+			"G:\\WORK\\Copylancer.ru\\public_html",
+			"G:\\WORK\\Copylancer.ru\\public_html\\components\\com_exchange\\views",
+			"G:\\WORK\\Copylancer.ru\\public_html\\components\\com_exchange\\controllers",
+			"G:\\WORK\\Copylancer.ru\\public_html\\components\\com_exchange\\views"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arbitre",
+			";}",
+			"exchange_model->table['work_item']",
+			"exchange_model->table['work']",
+			"exchange->table",
+			"exchange_model->table['orders']",
+			"fexchange->table['orders']",
+			"db->insert",
+			"db_price",
+			"makebid_form",
+			"'],",
+			"price(",
+			"],",
+			"price(",
+			"])",
+			"$this->fglobal->price(",
+			"input_price",
+			"$this->fglobal->cc(",
+			"*0.8",
+			"set",
+			"`cl_author_profile`",
+			"set",
+			"price_copywrite",
+			"price_rewrite",
+			"price_copywrite",
+			"mod_author_profile->fetch_price(",
+			"'old_status' => '', 'state' => 2,",
+			"result_1k_price",
+			"*2",
+			"average",
+			"fetch_average",
+			"to_active",
+			"to_draft",
+			"to_draft_failed",
+			"admin_stopwork",
+			"stopwork_failed",
+			"to_draft_failed",
+			"to_draft",
+			"to_author_cansel",
+			"arbitre_customer",
+			"get_",
+			"search",
+			"'action' => 'to_author'",
+			"to_author",
+			"'action' => 'to_active'",
+			"to_active",
+			"get_blocking",
+			"choisebid",
+			"$CI->finance->",
+			"choisebid",
+			"choisefirst",
+			"to_author",
+			"arbitre_customer",
+			"to_author",
+			"отменить выполнение",
+			"seller_wait",
+			"seller_inwork",
+			"$html = '",
+			"</div>",
+			"rules",
+			"</div>",
+			"style=\"display: none;font-style: italic;\"",
+			"border-bottom: 1px dotted #1F83C2;",
+			"<span",
+			"span onclick=\"$(\\'.hidep\\').toggle();\" style=\"border-bottom: 1px dotted #1F83C2; color:#1F83C2;\"",
+			"rules",
+			"additem_form",
+			"approval",
+			"additem",
+			"trigger",
+			"additem_form(",
+			"additem",
+			"Копилансер. Уведомление о проверки статьи",
+			"approval",
+			"com_shop",
+			"buy",
+			"border: 1px dotted #1F83C2;",
+			"ПРИМЕР",
+			"<p>",
+			"</p>",
+			"<p>Реко",
+			"                    ",
+			"fetch_task",
+			"                    ",
+			"                ",
+			"275",
+			"tt_textfragment",
+			"strlen",
+			"is_seller_favorite",
+			"karma",
+			"admin_stopwork",
+			"karma",
+			"in_project",
+			"fetch_draft",
+			"page",
+			";",
+			"comment",
+			"'] ",
+			"->notice->",
+			"papi_get_file_info",
+			"set_option",
+			"seller_tende",
+			"arbit",
+			"arbite",
+			"notice",
+			"arbitre_customer",
+			"validation_text2",
+			"fetch_wait",
+			"auto_inwork_stopwork",
+			"admin_stopwork",
+			"admin_stop",
+			"additem",
+			"nocurrentnews",
+			"nocu",
+			"'end'",
+			"stopwork_failed",
+			"fetch_ar",
+			"green",
+			"fetch_archive",
+			"_COOKIE",
+			"$_COOKIE[\"ADV\"]",
+			"adv",
+			"to_author",
+			"date_license_pick_image",
+			"1",
+			"arbitr",
+			"fetch_archive",
+			"hide("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fexchange->table['work_item']",
+			"fexchange->table['work']",
+			"fexchange->table['orders']"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 233,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								233,
+								233
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Applications/MAMP/conf/apache/httpd.conf",
+					"settings":
+					{
+						"buffer_size": 19329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17361,
+								17361
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7470.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "script.js",
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								39
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function InvoiceCntl($scope) {",
+							"incomplete_sync": null,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 199.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/G/WORK/itemol.ru/itemol.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true
+}
